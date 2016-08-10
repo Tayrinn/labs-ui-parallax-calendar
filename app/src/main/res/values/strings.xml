@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Yamblz</string>
-    <string name="content">Hello</string>
+    <string name="content_above">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi eu lorem sed urna mollis aliquet vitae ut velit. In fermentum orci at sem venenatis venenatis. Cras tortor mauris, venenatis ac purus ut, auctor placerat risus. Phasellus vulputate faucibus justo, sed scelerisque risus convallis nec. Pellentesque posuere quis magna sed maximus. Etiam nec imperdiet risus. Nulla hendrerit tortor vel augue ultricies, et efficitur massa cursus. In hendrerit enim sit amet ex sagittis consectetur. Phasellus nec arcu lacus. Curabitur venenatis dui aliquam, lobortis neque sed, tristique sapien. Praesent laoreet justo ut finibus vulputate. Maecenas viverra rhoncus sem, sit amet rutrum neque. Phasellus vulputate pellentesque scelerisque.</string>
+
+    <string name="content_below">Vestibulum erat nibh, ultricies non lacus nec, convallis congue ex. Vivamus id tortor vitae nisi vulputate porttitor. Quisque quis urna et eros convallis volutpat sit amet a sem. Integer placerat magna ut orci rutrum, luctus egestas ex blandit. Phasellus eu ultrices nulla, sed pulvinar orci. Nullam in est vitae libero sodales pulvinar et in risus. Praesent ut bibendum ex. Sed arcu sem, tincidunt non pretium nec, gravida non ligula. Nulla facilisi.
+
+Suspendisse potenti. Proin a risus vitae velit volutpat lacinia vitae at eros. In id rutrum neque. Sed nec ornare dolor. Aliquam erat volutpat. In vitae semper urna. Curabitur euismod sapien justo, gravida euismod metus aliquet vitae.
+
+Quisque tempor tellus purus, quis vestibulum risus vestibulum hendrerit. Vivamus feugiat nisl et ex tristique, id ultrices magna tincidunt. Pellentesque egestas venenatis dolor sit amet rhoncus. Nam nec lacus sem. Sed metus urna, posuere tristique velit ac, suscipit aliquet mi. Fusce id dignissim lorem, id auctor quam. Donec scelerisque elit sit amet facilisis efficitur. Aliquam erat volutpat. Cras eu sapien ut orci luctus rhoncus.</string>
 </resources>
